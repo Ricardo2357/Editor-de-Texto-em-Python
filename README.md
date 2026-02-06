@@ -1,5 +1,5 @@
 # Editor-de-Texto-em-Python
-
+Este projeto é um Editor de Texto que funciona diretamente no seu terminal. Ele utiliza a biblioteca Textual, do Python, para criar uma interface interativa, permitindo a edição de arquivos. Ele possui opções de salvar arquivos, abrir arquivos e sair do programa.
 
 <p align = "left">
 <img src = "https://thumbs.dreamstime.com/b/editor-do-c%C3%B3digo-texto-que-programa-sobre-exposi%C3%A7%C3%A3o-port%C3%A1til-133162140.jpg" alt = "Banner do Editor de Texto" width = "500">
@@ -37,7 +37,7 @@ Interface do editor de texto em execução no terminal.
 
 Após baixar ou clonar o projeto, siga os passos abaixo para executar o jogo no terminal.
 
-### Executando o Jogo:
+### Executando o Editor de Texto:
 
 No Windows:
 
@@ -53,15 +53,15 @@ python3 editor.py
 
 ## Como Utilizar
 
-1. 
+1. Após executar o editor de texto, digite o texto. 
 
-2.
+2. Ao pressionar as teclas CTRL + S, do seu teclado, caso o arquivo estiver aberto o conteúdo do arquivo é salvo, porém, caso o seja um novo arquivo, a ação se comportará como "Salvar Como" (CTRL + A). 
 
-3.
+3. Ao pressionar as teclas CTRL + A, do seu teclado, o editor de texto solicitará um novo nome ou o caminho do arquivo e, em seguida, salvar o conteúdo.
 
-4.
+4. Ao pressionar as teclas CTRL + O, do seu teclado, o editor de texto solicitará ao usuário o caminho de um arquivo para exibir seu conteúdo para a edição.
 
-5. 
+5. Ao pressionar as teclas CTRL + Q, do seu teclado, caso não houver alterações no arquivo o programa fechará normalmente. Entretanto, caso tiver alterações o programa exibirá uma tela de confirmação, perguntando ao usuário se ele realmente deseja sair ou não.
 
 ## Estrutura do Projeto
 
