@@ -7,7 +7,7 @@ Este projeto é um Editor de Texto que funciona diretamente no seu terminal. Ele
 
 ## Demonstração
 
-![Imagem do Terminal](assets/Editor-de-Texto-Terminal.png)
+![Imagem do Terminal](images/terminal-editor-de-texto.png)
 
 Interface do editor de texto em execução no terminal.
 
@@ -67,8 +67,8 @@ python3 editor.py
 
 ```
 Ratreador-de-Gastos-em-Python/
-├── assets/
-│   └── Editor-de-Texto-Terminal.png
+├── images/
+│   └── terminal-editor-de-texto.png
 ├── LICENSE
 ├── README.md
 └── editor.py 
