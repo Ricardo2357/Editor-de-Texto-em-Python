@@ -66,7 +66,7 @@ python3 editor.py
 ## Estrutura do Projeto
 
 ```
-Ratreador-de-Gastos-em-Python/
+Editor-de-Texto-em-Python/
 ├── images/
 │   └── terminal-editor-de-texto.png
 ├── LICENSE
